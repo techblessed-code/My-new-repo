@@ -1,0 +1,23 @@
+[33mcommit f8a8f0ba49c42ef60c9c776f15a97f185d2e729a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/Hello-World[m[33m, [m[1;32mHello-World[m[33m)[m
+Author: techblessed-code <techblessed23@gmail.com>
+Date:   Thu Oct 16 12:16:22 2025 +0100
+
+    added Hello-world.py with message
+
+[33mcommit 0a905dfff5659a5dfefe51f9c05e8377af0ecd60[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtesting-branch[m[33m)[m
+Author: techblessed-code <techblessed23@gmail.com>
+Date:   Thu Oct 9 12:00:58 2025 +0100
+
+    updated my readme file
+
+[33mcommit d55124d5c4f84ca85642c3cf33d0d5e5eea37d8a[m
+Author: techblessed-code <techblessed23@gmail.com>
+Date:   Thu Oct 9 11:24:06 2025 +0100
+
+    added some coding logic files and copying files
+
+[33mcommit 07043fb4a564f035465a75148d34b107469bab21[m
+Author: techblessed-code <techblessed23@gmail.com>
+Date:   Thu Oct 9 10:25:44 2025 +0100
+
+    Initial commit

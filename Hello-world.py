@@ -1,1 +1,1 @@
-print("Hello world, im coding at dunistech")
+print("Hello main, im coding at dunistech")
